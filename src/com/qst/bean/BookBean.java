@@ -1,6 +1,6 @@
 package com.qst.bean;
 
-public class BookBean {//ÊÇ·ñÐè¸Ä
+public class BookBean {
 	int id;
 	String bookname;
 	int unitprice;
