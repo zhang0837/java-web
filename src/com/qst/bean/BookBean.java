@@ -4,7 +4,7 @@ public class BookBean {//是否需改
 	int id;
 	String bookname;
 	int unitprice;
-	int booknumber;
+	int booknumber;//练习一下
 	int register_id;
 
 	public int getId() {
